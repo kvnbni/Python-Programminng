@@ -1,4 +1,4 @@
-
+#Depth First Search
 def main():
 	#entering the adjacency matrix depending on the graph	
 	adj_matrix=[[0,1,1,0],
